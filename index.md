@@ -1,3 +1,7 @@
+Privacy Policy for Amazon Review Refiner
+
+Amazon Review Refiner is designed with your privacy in mind. The extension does not collect, store, or transmit any personal data. All review analysis is performed locally in your browser, ensuring your information remains private and secure.
+
 ## Data Collection
 Amazon Review Refiner does **not** collect, store, or transmit any personal data or browsing history. Your privacy is our top priority.
 
