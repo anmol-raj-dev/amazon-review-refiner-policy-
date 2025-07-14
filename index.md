@@ -22,4 +22,4 @@ The extension only requests the minimal permissions required to function:
 ## Contact
 For privacy concerns or questions, please contact: anmolraj.dev99@gmail.com 
 
-_Last updated: July 8, 2025_ 
+_Last updated: July 15, 2025_ 
