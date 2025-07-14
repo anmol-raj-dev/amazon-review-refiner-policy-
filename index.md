@@ -1,5 +1,3 @@
-# Privacy Policy for Amazon Review Refiner
-
 ## Data Collection
 Amazon Review Refiner does **not** collect, store, or transmit any personal data or browsing history. Your privacy is our top priority.
 
